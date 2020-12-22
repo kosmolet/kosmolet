@@ -1,9 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)    
 ### ⚡ ⚡ ⚡ Hi ⚡ ⚡ ⚡
-![](https://img.shields.io/static/v1?label=test&labelColor=pink&message=%20&color=pink&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Jest&logo=Jest&color=black&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Mocha&logo=Mocha&color=black&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=%20&message=Supertest&logo=Supertest&color=black&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=%20&message=Chai&logo=Chai&color=black&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=%20&message=React%20Testing%20Library&logo=React&color=black&style=for-the-badge)
+
 
 
 ## 🏆 Github Stats:  
@@ -24,9 +21,20 @@
 
 ![](https://img.shields.io/static/v1?label=Frontend&labelColor=pink&message=%20&color=pink&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=JavaScript&color=black&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=%20&message=Python&logo=Python&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=CSS&logo=CSS3&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=HTML&logo=HTML5&color=black&style=for-the-badge)
+
+
+![](https://img.shields.io/static/v1?label=Backend&labelColor=pink&message=%20&color=pink&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Python&logo=Python&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=JavaScript&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Node.js&logo=Node.js&color=black&style=for-the-badge)
+
+
+![](https://img.shields.io/static/v1?label=test&labelColor=pink&message=%20&color=pink&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Jest&logo=Jest&color=black&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Mocha&logo=Mocha&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Supertest&logo=Supertest&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Chai&logo=Chai&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=React%20Testing%20Library&logo=React&color=black&style=for-the-badge)
 
 <!--
 <p align="center">
