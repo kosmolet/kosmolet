@@ -1,6 +1,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)    
 ### ⚡ ⚡ ⚡ Hi ⚡  Hej hej ⚡ ⚡ ⚡ 
 
+## 🏆 My Github Stats:  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kosmolet&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite)
 
 ## ✉️ Find me on:
