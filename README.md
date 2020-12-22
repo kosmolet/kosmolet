@@ -1,4 +1,5 @@
-### ⚡ ⚡ ⚡ Hi ⚡ ⚡ ⚡ ![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)   
+![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)   
+<h3 align="center"> :snowflake::snowflake::snowflake: Hi :snowflake::snowflake::snowflake: </h3>
 
 ## :feet: Github Stats:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite&layout=compact)
@@ -38,9 +39,12 @@
 ![](https://img.shields.io/static/v1?label=%20&message=Heroku&logo=Heroku&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=Google%20Cloud&logo=Google%20Cloud&color=black&style=for-the-badge)
 
-![](https://img.shields.io/static/v1?label=Tools&labelColor=pink&message=%20&color=pink&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=Other&labelColor=pink&message=%20&color=pink&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=Git&logo=Git&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=GitHub&logo=GitHub&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Postmark&logo=gmail&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=SendGrid&logo=gmail&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=mailchimp&logo=mailchimp&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=VSCode&logo=Visual%20Studio%20Code&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=Jira&logo=Jira&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=Trello&logo=Trello&color=black&style=for-the-badge)
