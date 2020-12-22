@@ -2,8 +2,8 @@
 ### ⚡ ⚡ ⚡ Hi ⚡  Hej hej ⚡ ⚡ ⚡ 
 
 ## 🏆 My Github Stats:  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kosmolet&show_icons=true&theme=graywhite) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite)
+<!-- ![GitHub stats](![Github stats](https://github-readme-stats.vercel.app/api?username=kosmolet&show_icons=true&theme=radical)) -->
 ## ✉️ Find me on:
 
 <p align="center">
