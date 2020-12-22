@@ -1,7 +1,6 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)    
-### ⚡ ⚡ ⚡ Hi ⚡ ⚡ ⚡
+### ⚡ ⚡ ⚡ Hi ⚡ ⚡ ⚡ ![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)   
 
-## 🏆 Github Stats:  
+## :feet: Github Stats:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite&layout=compact)
 
 <!-- ![GitHub stats](![Github stats](https://github-readme-stats.vercel.app/api?username=kosmolet&show_icons=true&theme=radical)) -->
@@ -15,7 +14,7 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+## :feet: Languages and Tools:
 
 ![](https://img.shields.io/static/v1?label=Frontend&labelColor=pink&message=%20&color=pink&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=JavaScript&color=black&style=for-the-badge)
