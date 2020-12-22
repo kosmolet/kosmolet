@@ -1,8 +1,14 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)    
-### ⚡ ⚡ ⚡ Hi ⚡  Hej hej ⚡ ⚡ ⚡ 
+### ⚡ ⚡ ⚡ Hi ⚡ ⚡ ⚡
+![](https://img.shields.io/static/v1?label=test&labelColor=pink&message=%20&color=pink&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Jest&logo=Jest&color=black&style=for-the-badge) ![](https://img.shields.io/static/v1?label=%20&message=Mocha&logo=Mocha&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Supertest&logo=Supertest&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Chai&logo=Chai&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=React%20Testing%20Library&logo=React&color=black&style=for-the-badge)
 
-## 🏆 My Github Stats:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite)
+
+## 🏆 Github Stats:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite&layout=compact)
+
 <!-- ![GitHub stats](![Github stats](https://github-readme-stats.vercel.app/api?username=kosmolet&show_icons=true&theme=radical)) -->
 ## ✉️ Find me on:
 
@@ -15,6 +21,14 @@
 <br />
 
 ## 🧰 Languages and Tools:
+
+![](https://img.shields.io/static/v1?label=Frontend&labelColor=pink&message=%20&color=pink&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=JavaScript&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Python&logo=Python&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=CSS&logo=CSS3&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=HTML&logo=HTML5&color=black&style=for-the-badge)
+
+<!--
 <p align="center">
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/js.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -28,7 +42,7 @@
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/vscode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
+
 **kosmolet/kosmolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
