@@ -6,8 +6,8 @@
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://kosmolet.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/kosmolet" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/kosmolet/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <!-- <a href="https://linkedin.com/in/kosmolet" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>-->
  <a href="mailto:kosmolet.git@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -17,12 +17,14 @@
 <p align="center">
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/js.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/kosmolet/kosmolet/blob/main/images/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/kosmolet/kosmolet/blob/main/images/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/kosmolet/kosmolet/blob/main/images/vscode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/kosmolet/kosmolet/blob/main/images/nodejs.jpg" alt="Node" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/kosmolet/kosmolet/blob/main/images/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/mongodb.png" alt="Mongo" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/nodejs.jpg" alt="Node" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/kosmolet/kosmolet/blob/main/images/github_n.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/kosmolet/kosmolet/blob/main/images/vscode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <!--
