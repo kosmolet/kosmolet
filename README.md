@@ -1,4 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=kosmolet.kosmolet)   
 <h3 align="center"> :snowflake::snowflake::snowflake: Hi :snowflake::snowflake::snowflake: </h3>
 
 ## :feet: Github Stats:  
