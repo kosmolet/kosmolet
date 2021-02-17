@@ -1,7 +1,8 @@
 <!--<h3 align="center"> :snowflake::snowflake::snowflake: Hi :snowflake::snowflake::snowflake: </h3>
 ## :feet: Github Stats:   -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosmolet&theme=graywhite&layout=compact) <a href="mailto:kosmolet.git@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>  
-<!--## Languages and Tools:  -->
+<!--
+## Languages and Tools:  
 ![](https://img.shields.io/static/v1?label=Frontend&labelColor=pink&message=%20&color=pink&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=JavaScript&logo=JavaScript&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=CSS&logo=CSS3&color=black&style=for-the-badge)
@@ -40,9 +41,11 @@
 ![](https://img.shields.io/static/v1?label=%20&message=SendGrid&logo=gmail&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=mailchimp&logo=mailchimp&color=black&style=for-the-badge)
 ![](https://img.shields.io/static/v1?label=%20&message=VSCode&logo=Visual%20Studio%20Code&color=black&style=for-the-badge)
- <!-- ![](https://img.shields.io/static/v1?label=%20&message=Jira&logo=Jira&color=black&style=for-the-badge)
-![](https://img.shields.io/static/v1?label=%20&message=Trello&logo=Trello&color=black&style=for-the-badge)-->
+ 
 
+ ![](https://img.shields.io/static/v1?label=%20&message=Jira&logo=Jira&color=black&style=for-the-badge)
+![](https://img.shields.io/static/v1?label=%20&message=Trello&logo=Trello&color=black&style=for-the-badge)-->
+ 
  <!--<p align="right">
 <a href="https://github.com/kosmolet/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  - <a href="https://linkedin.com/in/kosmolet" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
